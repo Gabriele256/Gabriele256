@@ -8,12 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
       - name: Generate Pacman Graph
-        uses: abozanona/pacman-contribution-graph@v2
+        uses: abozanona/pacman-contribution-graph@master
         with:
           github_user_name: ${{ github.repository_owner }}
 
