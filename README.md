@@ -11,11 +11,8 @@
 <br/>
 
 <div align="center">
-  <table style="border: none; background-color: transparent;">
-    <tr style="border: none; background-color: transparent;">
-      <td width="50%" valign="center" style="border: none; background-color: transparent;">
-        <h3 align="left">Tech Stack</h3>
-        <div align="left">
+        <h3 align="center">Tech Stack</h3>
+        <div align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
           <img width="10" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -40,10 +37,4 @@
           <img width="10" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
         </div>
-      </td>
-      <td width="50%" align="center" style="border: none; background-color: transparent;">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9ib3k0enphNW91czRyM2ZnaHY5Y2JsMmR6bDZka2Q5dmxwcTgyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oeS2n25LaP4kXpjatz/giphy.gif" style="width: 100%; max-width: 300px; border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
 </div>
